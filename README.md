@@ -4,7 +4,7 @@ A Claude Code skill that generates interactive dependency graphs of HubSpot MCP 
 
 ## Demo
 
-https://github.com/user-attachments/assets/mcp-visualizer.mp4
+<video src="https://github.com/user-attachments/assets/9d6423d2-94bc-4278-a81d-4c02819a29ee" width="800" controls></video>
 
 > *The visualization is rendered as an interactive widget inside Claude Code — select a prompt to trace how Claude reasons through each tool step by step.*
 
